@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Check out my site - https://vivek7156.github.io/expense-tracker-react/
+![Screenshot 2024-09-18 154531](https://github.com/user-attachments/assets/15540185-f0b2-42b3-a9d4-60ee293f47eb)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
