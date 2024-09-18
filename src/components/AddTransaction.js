@@ -29,8 +29,8 @@ export const AddTransaction = () => {
       <h3>Add new transaction</h3>
       <form onSubmit={onSubmit}>
                 <div className="form-control">
-                    <label htmlFor="text">Text</label>
-                    <input type="text" value={text} onChange={(e) => setText(e.target.value)} placeholder="Enter text..." />
+                    <label htmlFor="text">Text (max 30 characters)</label>
+                    <input type="text" value={text} onChange={(e) => setText(e.target.value)} placeholder="Enter text..." maxLength="30" />
                 </div>
                 <div className="form-control">
                     <label htmlFor="amount">
