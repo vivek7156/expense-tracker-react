@@ -1,3 +1,8 @@
+## Check out my site - https://vivek7156.github.io/expense-tracker-react/
+![Screenshot 2024-09-18 154531](https://github.com/user-attachments/assets/6bda3e21-5147-4405-a86a-a36aade8d7e7)
+
+## I know the UI is basic because I was focused more on functionality than the design. Although I am working on a better version of this app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
